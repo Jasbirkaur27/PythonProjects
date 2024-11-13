@@ -20,7 +20,7 @@ To get started with these projects, follow the steps below:
 ### 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 
-git clone https://github.com/Jasbirkaur27/Python.git
+git clone https://github.com/Jasbirkaur27/PythonProjects
 ### 2. Install Python
 
 Ensure you have **Python 3.x** installed on your system. You can download it from [python.org](https://www.python.org/downloads/). You can verify your Python installation by running:
